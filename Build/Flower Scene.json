@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Crystals2",
+"productVersion": "0.1",
+"dataUrl": "Flower Scene.data.unityweb",
+"wasmCodeUrl": "Flower Scene.wasm.code.unityweb",
+"wasmFrameworkUrl": "Flower Scene.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
